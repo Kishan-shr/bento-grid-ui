@@ -21,6 +21,12 @@ Welcome to the **Bento Grid UI** project! This modern, responsive grid layout is
 - **Google Fonts** for typography enhancement.
 
 ---
+---
+
+## 📸 Preview
+![Bento Grid Preview](design/desktop-design.jpg)
+
+---
 
 ## 📂 Project Structure
 ```
@@ -57,12 +63,7 @@ linkedin : https://www.linkedin.com/in/kishanshr/
 - Each item is placed strategically using **grid-column** and **grid-row** properties.
 - The design is **fully responsive** and adjusts to different screen sizes.
 
----
 
-## 📸 Preview
-![Bento Grid Preview](assets/images/bento-preview.png)
-
----
 
 ## 🚀 Future Enhancements
 - 🌟 Dark mode toggle.
